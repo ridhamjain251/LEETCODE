@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ridhamjain251/LEETCODE/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ridhamjain251/LEETCODE/tree/master/0204-count-primes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ridhamjain251/LEETCODE/tree/master/0162-find-peak-element) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
