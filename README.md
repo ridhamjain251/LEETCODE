@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ridhamjain251/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/ridhamjain251/LEETCODE/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0796-rotate-string) |
+| [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
