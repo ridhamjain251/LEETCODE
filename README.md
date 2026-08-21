@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridhamjain251/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2413-smallest-even-multiple](https://github.com/ridhamjain251/LEETCODE/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ridhamjain251/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ridhamjain251/LEETCODE/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ridhamjain251/LEETCODE/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/ridhamjain251/LEETCODE/tree/master/2413-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
