@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridhamjain251/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/ridhamjain251/LEETCODE/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/ridhamjain251/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ridhamjain251/LEETCODE/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
