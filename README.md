@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ridhamjain251/LEETCODE/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ridhamjain251/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ridhamjain251/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ridhamjain251/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/ridhamjain251/LEETCODE/tree/master/2413-smallest-even-multiple) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
 ## Queue
 |  |
 | ------- |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ridhamjain251/LEETCODE/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
