@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ridhamjain251/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhamjain251/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
@@ -122,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ridhamjain251/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 ## Counting Sort
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ridhamjain251/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 ## Newton's Method
 |  |
 | ------- |
