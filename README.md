@@ -137,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ridhamjain251/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ridhamjain251/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting Sort
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ridhamjain251/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ridhamjain251/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Newton's Method
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ridhamjain251/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Queue
 |  |
 | ------- |
