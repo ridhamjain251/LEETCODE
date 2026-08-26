@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/ridhamjain251/LEETCODE/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ridhamjain251/LEETCODE/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ridhamjain251/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ridhamjain251/LEETCODE/tree/master/0258-add-digits) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ridhamjain251/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhamjain251/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ridhamjain251/LEETCODE/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ridhamjain251/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhamjain251/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
