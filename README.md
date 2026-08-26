@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/ridhamjain251/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ridhamjain251/LEETCODE/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/ridhamjain251/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ridhamjain251/LEETCODE/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ridhamjain251/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ridhamjain251/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhamjain251/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ridhamjain251/LEETCODE/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/ridhamjain251/LEETCODE/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/ridhamjain251/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/ridhamjain251/LEETCODE/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0796-rotate-string) |
