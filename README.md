@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ridhamjain251/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ridhamjain251/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/ridhamjain251/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1837-sum-of-digits-in-base-k](https://github.com/ridhamjain251/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/ridhamjain251/LEETCODE/tree/master/2119-a-number-after-a-double-reversal) |
