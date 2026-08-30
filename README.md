@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/ridhamjain251/LEETCODE/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/ridhamjain251/LEETCODE/tree/master/1528-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/ridhamjain251/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/ridhamjain251/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
