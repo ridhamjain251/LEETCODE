@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridhamjain251/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ridhamjain251/LEETCODE/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ridhamjain251/LEETCODE/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhamjain251/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/ridhamjain251/LEETCODE/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ridhamjain251/LEETCODE/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhamjain251/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/ridhamjain251/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ridhamjain251/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/ridhamjain251/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ridhamjain251/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/ridhamjain251/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
