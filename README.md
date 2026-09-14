@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ridhamjain251/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ridhamjain251/LEETCODE/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/ridhamjain251/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/ridhamjain251/LEETCODE/tree/master/0904-fruit-into-baskets) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ridhamjain251/LEETCODE/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ridhamjain251/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhamjain251/LEETCODE/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/ridhamjain251/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/ridhamjain251/LEETCODE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/ridhamjain251/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/ridhamjain251/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ridhamjain251/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ridhamjain251/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ridhamjain251/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
