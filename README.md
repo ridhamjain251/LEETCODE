@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ridhamjain251/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ridhamjain251/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ridhamjain251/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ridhamjain251/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ridhamjain251/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ridhamjain251/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ridhamjain251/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ridhamjain251/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridhamjain251/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ridhamjain251/LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
 | ------- |
