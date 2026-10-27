@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ridhamjain251/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ridhamjain251/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ridhamjain251/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ridhamjain251/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ridhamjain251/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ridhamjain251/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/ridhamjain251/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ridhamjain251/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ridhamjain251/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0219-contains-duplicate-ii) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ridhamjain251/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ridhamjain251/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
