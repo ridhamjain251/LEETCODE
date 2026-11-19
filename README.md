@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/ridhamjain251/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ridhamjain251/LEETCODE/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
+| [2000-reverse-prefix-of-word](https://github.com/ridhamjain251/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ridhamjain251/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/ridhamjain251/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/ridhamjain251/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Backtracking
 |  |
 | ------- |
