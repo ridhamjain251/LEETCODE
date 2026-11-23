@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/ridhamjain251/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/ridhamjain251/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/ridhamjain251/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ridhamjain251/LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
