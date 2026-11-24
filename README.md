@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ridhamjain251/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ridhamjain251/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/ridhamjain251/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1837-sum-of-digits-in-base-k](https://github.com/ridhamjain251/LEETCODE/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ridhamjain251/LEETCODE/tree/master/1927-sum-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ridhamjain251/LEETCODE/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/ridhamjain251/LEETCODE/tree/master/1528-shuffle-string) |
 | [1732-find-the-highest-altitude](https://github.com/ridhamjain251/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/ridhamjain251/LEETCODE/tree/master/1748-sum-of-unique-elements) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ridhamjain251/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ridhamjain251/LEETCODE/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ridhamjain251/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/ridhamjain251/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ridhamjain251/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ridhamjain251/LEETCODE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/ridhamjain251/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ridhamjain251/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
