@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ridhamjain251/LEETCODE/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ridhamjain251/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ridhamjain251/LEETCODE/tree/master/0415-add-strings) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ridhamjain251/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1929-concatenation-of-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/ridhamjain251/LEETCODE/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ridhamjain251/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ridhamjain251/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/ridhamjain251/LEETCODE/tree/master/0904-fruit-into-baskets) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ridhamjain251/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ridhamjain251/LEETCODE/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ridhamjain251/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ridhamjain251/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ridhamjain251/LEETCODE/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ridhamjain251/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ridhamjain251/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ridhamjain251/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ridhamjain251/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ridhamjain251/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ridhamjain251/LEETCODE/tree/master/0950-reveal-cards-in-increasing-order) |
 ## String Matching
 |  |
 | ------- |
